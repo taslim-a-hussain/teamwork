@@ -8,6 +8,9 @@ GitHub Issues, which is a robust way of creating documented, interactive, automa
 git commit -am "Adding a header; fixes #3"
 ```
 
+### 2. Pull Request
+Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
+
 ## Collaborating with issues and pull requests
 Use the GitHub flow to track and discuss changes in issues, then propose and review changes in pull requests.
 ### GitHub flow
